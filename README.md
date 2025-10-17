@@ -1,4 +1,7 @@
 # EXNO:4-DS
+## Date: 17/10/2025
+## NAME: ANISH ADAN THIVAKARAN
+## REF.NO: 25017997
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,8 +27,6 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-## NAME: ANISH ADAN THIVAKARAN
-## REF.NO: 25017997
 
 ### FEATURE SCALING:
 ```
